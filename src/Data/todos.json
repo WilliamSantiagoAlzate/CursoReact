@@ -1,0 +1,28 @@
+{
+    "todos": [
+        {
+            "title": "Task 1",
+            "responsible": "Fabian",
+            "description": "Make lunch",
+            "priority": "high"
+        },
+        {
+            "title": "Task 2",
+            "responsible": "Luisa",
+            "description": "Make Breakfast",
+            "priority": "low"
+        },
+        {
+            "title": "Task 3",
+            "responsible": "Valentina",
+            "description": "Make dinner",
+            "priority": "medium"
+        },
+        {
+            "title": "Task 4",
+            "responsible": "Willi Boss",
+            "description": "Take a rest",
+            "priority": "high"
+        }
+    ]
+}
